@@ -1,0 +1,6 @@
+dependencies:
+- name: child-chart
+  repository: file://../child-chart
+  version: 0.1.0
+digest: sha256:26f93736f7aad373660782cbe5e04ba6d89b343c934054005619008b4ffbadac
+generated: "2025-01-24T01:00:02.106309+01:00"
